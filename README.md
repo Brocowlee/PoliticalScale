@@ -1,2 +1,2 @@
 # PoliticalScale
-evaluation of the political opinion depending on the follows of an account
+evaluation of the political opinions of someone depending on the follows of its account.
